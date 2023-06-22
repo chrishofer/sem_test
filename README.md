@@ -13,5 +13,7 @@ Meins:
 - [ ] Thema2
 
 Nicht meins:
+
 [x] Thema1 (Name1)  
+
 [] Thema2
